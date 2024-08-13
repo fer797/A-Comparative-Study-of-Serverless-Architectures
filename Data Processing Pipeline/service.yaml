@@ -1,0 +1,12 @@
+apiVersion: serving.knative.dev/v1
+kind: Service
+metadata:
+  name: medpipeline
+  namespace: default
+spec:
+  template:
+    spec:
+      containers:
+        - image: sc23fjrl/medpipeline:v4  # Change the tag to force a new revision
+          ports:
+            - containerPort: 8080

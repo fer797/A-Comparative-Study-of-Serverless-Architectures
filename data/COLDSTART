@@ -1,0 +1,462 @@
+
+
+AZURE FUNCTION 
+
+Healthcare Orchestration Pipeline
+EXECUTION 1 :
+Thread Name:Azure Functions tive Service  COLD 1-1
+Sample Start:2024-08-12 08:35:51 PET
+Load time:4924
+Connect Time:223
+Latency:4924
+Size in bytes:142
+Sent bytes:158
+Headers size in bytes:125
+Body size in bytes:17
+Sample Count:1
+Error Count:0
+Data type ("text"|"bin"|""):text
+Response code:200
+Response message:OK
+
+
+HTTPSampleResult fields:
+ContentType: application/json
+DataEncoding: null
+
+
+
+HTTPSampleResult fields:
+ContentType: application/json
+DataEncoding: null
+
+EXECUTION 2 :
+Thread Name:Azure Functions tive Service  COLD 2-1
+Sample Start:2024-08-12 09:01:05 PET
+Load time:3824
+Connect Time:229
+Latency:3824
+Size in bytes:142
+Sent bytes:158
+Headers size in bytes:125
+Body size in bytes:17
+Sample Count:1
+Error Count:0
+Data type ("text"|"bin"|""):text
+Response code:200
+Response message:OK
+
+
+HTTPSampleResult fields:
+ContentType: application/json
+DataEncoding: null
+
+
+EXECUTION 3 :
+Thread Name:Azure Functions tive Service  COLD 3-1
+Sample Start:2024-08-12 09:26:17 PET
+Load time:6235
+Connect Time:243
+Latency:6235
+Size in bytes:142
+Sent bytes:158
+Headers size in bytes:125
+Body size in bytes:17
+Sample Count:1
+Error Count:0
+Data type ("text"|"bin"|""):text
+Response code:200
+Response message:OK
+
+
+HTTPSampleResult fields:
+ContentType: application/json
+DataEncoding: null
+
+
+EXECUTION 4 :
+
+
+Thread Name:Azure Functions tive Service  COLD 4-1
+Sample Start:2024-08-12 09:51:29 PET
+Load time:3699
+Connect Time:253
+Latency:3699
+Size in bytes:142
+Sent bytes:158
+Headers size in bytes:125
+Body size in bytes:17
+Sample Count:1
+Error Count:0
+Data type ("text"|"bin"|""):text
+Response code:200
+Response message:OK
+
+
+HTTPSampleResult fields:
+ContentType: application/json
+DataEncoding: null
+
+
+EXECUTION 5 :
+
+Thread Name:Azure Functions tive Service  COLD 5-1
+Sample Start:2024-08-12 10:16:48 PET
+Load time:6261
+Connect Time:260
+Latency:6261
+Size in bytes:142
+Sent bytes:158
+Headers size in bytes:125
+Body size in bytes:17
+Sample Count:1
+Error Count:0
+Data type ("text"|"bin"|""):text
+Response code:200
+Response message:OK
+
+
+HTTPSampleResult fields:
+ContentType: application/json
+DataEncoding: null
+
+---------------------------------------------
+Data Processing Pipeline
+
+EXECUTION 1 :
+
+Thread Name:Azure Functions tive Service  COLD 1-1
+Sample Start:2024-08-12 08:35:56 PET
+Load time:8277
+Connect Time:213
+Latency:8277
+Size in bytes:3924
+Sent bytes:145
+Headers size in bytes:132
+Body size in bytes:3792
+Sample Count:1
+Error Count:0
+Data type ("text"|"bin"|""):text
+Response code:201
+Response message:Created
+
+
+HTTPSampleResult fields:
+ContentType: application/json
+DataEncoding: null
+
+
+EXECUTION 2 :
+
+Thread Name:Azure Functions tive Service  COLD 2-1
+Sample Start:2024-08-12 09:01:09 PET
+Load time:8456
+Connect Time:221
+Latency:8456
+Size in bytes:3924
+Sent bytes:145
+Headers size in bytes:132
+Body size in bytes:3792
+Sample Count:1
+Error Count:0
+Data type ("text"|"bin"|""):text
+Response code:201
+Response message:Created
+
+
+HTTPSampleResult fields:
+ContentType: application/json
+DataEncoding: null
+
+
+EXECUTION 3 :
+
+Thread Name:Azure Functions tive Service  COLD 3-1
+Sample Start:2024-08-12 09:26:23 PET
+Load time:5971
+Connect Time:227
+Latency:5971
+Size in bytes:3924
+Sent bytes:145
+Headers size in bytes:132
+Body size in bytes:3792
+Sample Count:1
+Error Count:0
+Data type ("text"|"bin"|""):text
+Response code:201
+Response message:Created
+
+
+HTTPSampleResult fields:
+ContentType: application/json
+DataEncoding: null
+
+
+EXECUTION 4 :
+
+Thread Name:Azure Functions tive Service  COLD 4-1
+Sample Start:2024-08-12 09:51:33 PET
+Load time:15109
+Connect Time:216
+Latency:15109
+Size in bytes:3924
+Sent bytes:145
+Headers size in bytes:132
+Body size in bytes:3792
+Sample Count:1
+Error Count:0
+Data type ("text"|"bin"|""):text
+Response code:201
+Response message:Created
+
+
+HTTPSampleResult fields:
+ContentType: application/json
+DataEncoding: null
+
+
+EXECUTION 5 :
+
+Thread Name:Azure Functions tive Service  COLD 5-1
+Sample Start:2024-08-12 10:16:54 PET
+Load time:9536
+Connect Time:223
+Latency:9535
+Size in bytes:3924
+Sent bytes:145
+Headers size in bytes:132
+Body size in bytes:3792
+Sample Count:1
+Error Count:0
+Data type ("text"|"bin"|""):text
+Response code:201
+Response message:Created
+
+
+HTTPSampleResult fields:
+ContentType: application/json
+DataEncoding: null
+
+
+
+
+KNATIVE 
+
+Healthcare Orchestration Pipeline
+EXECUTION 1:
+
+Thread Name:Knative tive Service  COLD 1-1
+Sample Start:2024-08-12 12:28:31 PET
+Load time:2719
+Connect Time:1
+Latency:2719
+Size in bytes:177
+Sent bytes:164
+Headers size in bytes:160
+Body size in bytes:17
+Sample Count:1
+Error Count:0
+Data type ("text"|"bin"|""):text
+Response code:200
+Response message:OK
+
+
+HTTPSampleResult fields:
+ContentType: application/json
+DataEncoding: null
+
+
+EXECUTION 2:
+
+
+Thread Name:Knative tive Service  COLD 2-1
+Sample Start:2024-08-12 12:38:37 PET
+Load time:2843
+Connect Time:14
+Latency:2843
+Size in bytes:177
+Sent bytes:164
+Headers size in bytes:160
+Body size in bytes:17
+Sample Count:1
+Error Count:0
+Data type ("text"|"bin"|""):text
+Response code:200
+Response message:OK
+
+
+HTTPSampleResult fields:
+ContentType: application/json
+DataEncoding: null
+
+
+EXECUTION 3:
+
+Thread Name:Knative tive Service  COLD 3-1
+Sample Start:2024-08-12 12:48:42 PET
+Load time:2638
+Connect Time:6
+Latency:2638
+Size in bytes:177
+Sent bytes:164
+Headers size in bytes:160
+Body size in bytes:17
+Sample Count:1
+Error Count:0
+Data type ("text"|"bin"|""):text
+Response code:200
+Response message:OK
+
+
+HTTPSampleResult fields:
+ContentType: application/json
+DataEncoding: null
+
+EXECUTION 4:
+Thread Name:Knative tive Service  COLD 4-1
+Sample Start:2024-08-12 12:58:48 PET
+Load time:2483
+Connect Time:6
+Latency:2483
+Size in bytes:177
+Sent bytes:164
+Headers size in bytes:160
+Body size in bytes:17
+Sample Count:1
+Error Count:0
+Data type ("text"|"bin"|""):text
+Response code:200
+Response message:OK
+
+
+HTTPSampleResult fields:
+ContentType: application/json
+DataEncoding: null
+
+
+EXECUTION 5:
+
+Thread Name	Knative tive Service  COLD 5-1
+Sample Start	2024-08-12 13:08:53 PET
+Load time	2499
+Connect Time	7
+Latency	2498
+Size in bytes	177
+Sent bytes	164
+Headers size in bytes	160
+Body size in bytes	17
+Sample Count	1
+Error Count	0
+Response code	200
+Response message	OK
+
+
+
+
+Data Processing Pipeline
+EXECUTION 1:
+
+Thread Name:Knative tive Service  COLD 1-1
+Sample Start:2024-08-12 12:28:34 PET
+Load time:2512
+Connect Time:1
+Latency:2512
+Size in bytes:3959
+Sent bytes:160
+Headers size in bytes:167
+Body size in bytes:3792
+Sample Count:1
+Error Count:0
+Data type ("text"|"bin"|""):text
+Response code:201
+Response message:Created
+
+
+HTTPSampleResult fields:
+ContentType: application/json
+DataEncoding: null
+
+
+EXECUTION 2:
+
+Thread Name:Knative tive Service  COLD 2-1
+Sample Start:2024-08-12 12:38:39 PET
+Load time:3073
+Connect Time:0
+Latency:3073
+Size in bytes:3959
+Sent bytes:160
+Headers size in bytes:167
+Body size in bytes:3792
+Sample Count:1
+Error Count:0
+Data type ("text"|"bin"|""):text
+Response code:201
+Response message:Created
+
+
+HTTPSampleResult fields:
+ContentType: application/json
+DataEncoding: null
+
+
+EXECUTION 3:
+
+Thread Name:Knative tive Service  COLD 3-1
+Sample Start:2024-08-12 12:48:45 PET
+Load time:2836
+Connect Time:2
+Latency:2836
+Size in bytes:3959
+Sent bytes:160
+Headers size in bytes:167
+Body size in bytes:3792
+Sample Count:1
+Error Count:0
+Data type ("text"|"bin"|""):text
+Response code:201
+Response message:Created
+
+
+HTTPSampleResult fields:
+ContentType: application/json
+DataEncoding: null
+
+
+EXECUTION 4:
+
+Thread Name:Knative tive Service  COLD 4-1
+Sample Start:2024-08-12 12:58:50 PET
+Load time:2877
+Connect Time:2
+Latency:2876
+Size in bytes:3959
+Sent bytes:160
+Headers size in bytes:167
+Body size in bytes:3792
+Sample Count:1
+Error Count:0
+Data type ("text"|"bin"|""):text
+Response code:201
+Response message:Created
+
+
+HTTPSampleResult fields:
+ContentType: application/json
+DataEncoding: null
+
+EXECUTION 5:
+
+Thread Name	Knative tive Service  COLD 5-1
+Sample Start	2024-08-12 13:08:56 PET
+Load time	2538
+Connect Time	1
+Latency	2538
+Size in bytes	3959
+Sent bytes	160
+Headers size in bytes	167
+Body size in bytes	3792
+Sample Count	1
+Error Count	0
+Response code	201
+Response message	Created

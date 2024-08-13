@@ -1,0 +1,33 @@
+
+The serverless model is built upon several key principles and concepts:
+
+\begin{enumerate}[label=(\alph*)]
+    \item \textbf{Event-Driven Architecture}
+
+    Serverless computing operates on an event-driven architecture where functions are triggered by events such as HTTP requests, database changes, or message queues. This architecture enables applications to be highly responsive and scalable, as functions are only executed in response to events, ensuring efficient resource utilisation.
+
+    \item \textbf{Microservices}
+
+    Serverless applications are often composed of fine-grained microservices, each performing a specific task. This modularity facilitates easier updates, testing, and scaling of individual components. The microservices architecture aligns well with serverless computing, promoting a decoupled and resilient system design .
+    
+    \item \textbf{Scalability}
+
+    One of the core benefits of serverless computing is automatic scalability. Cloud providers dynamically allocate resources to handle incoming requests, scaling up during peak times and scaling down during low-traffic periods. This elasticity is crucial for handling unpredictable workloads without manual intervention.
+    
+    \item \textbf{Cost Efficiency}
+
+    Serverless platforms follow a pay-as-you-go pricing model, where users are billed based on the number of executions and the duration of each execution. This model can lead to significant cost savings, especially for applications with variable or unpredictable traffic patterns. Users do not need to pay for idle resources, a major advantage over traditional infrastructure.
+
+    \item \textbf{Cold Start Latency}
+
+    Despite its benefits, serverless computing faces challenges like cold start latency. When a function is invoked after being idle, the cloud provider must allocate resources and initialise the function's runtime environment. This initialisation delay can impact the performance of latency-sensitive applications.
+
+    \item \textbf{Statelessness}
+
+    Serverless functions are inherently stateless, meaning they do not retain any state between executions. While this simplifies scaling and resource management, it also requires developers to use external storage solutions for state persistence, which can add complexity to application design.
+
+    \item \textbf{Security and Compliance}
+
+    Serverless platforms introduce new security considerations. The ephemeral nature of serverless functions and the shared responsibility model require robust security practices to ensure applications' confidentiality, integrity, and availability. Compliance with regulatory requirements must also be addressed, especially when handling sensitive data.
+
+\end{enumerate}

@@ -1,1 +1,0 @@
-# A-Comparative-Study-of-Serverless-Architectures
